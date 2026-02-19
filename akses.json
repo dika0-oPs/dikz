@@ -1,2 +1,4 @@
-user : dika
-pw : dika 
+[
+  { "user": "dikz", "pw": "123" },
+  { "user": "admin", "pw": "admin123" }
+]
